@@ -74,7 +74,7 @@
 		>
 			Nuxt UI Chatbot Build source
 		</a>
-		<h1 class="my-8 text-5xl font-bold text-center text-black">Chatbot 2</h1>
+		<h1 class="my-8 text-5xl font-bold text-center text-rose-900">Chatbot 2</h1>
 		<div class="max-w-xl mx-auto">
 			<div class="bg-white rounded-md shadow h-[60vh] flex flex-col justify-between">
 				<div class="h-full overflow-auto chat-messages">
