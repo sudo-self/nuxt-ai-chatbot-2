@@ -69,12 +69,12 @@
 <template>
 	<div class="max-w-xl mx-auto text-black">
 		<a
-			href="https://vercel.com/templates/next.js/blob-sveltekit"
+			href="https://github.com/sudo-self/nuxt-ai-chatbot-2"
 			class="flex justify-center px-10 py-2 mx-auto space-x-1 text-sm font-medium text-center text-gray-600 transition-all rounded-full shadow-sm group bg-white/30 ring-1 ring-gray-900/5 hover:shadow-lg active:shadow-sm"
 		>
-			Deploy your own to Vercel
+			Nuxt UI Chatbot Remplate
 		</a>
-		<h1 class="my-8 text-5xl font-bold text-center text-black">AI Chatbot</h1>
+		<h1 class="my-8 text-5xl font-bold text-center text-black">Chatbot 2</h1>
 		<div class="max-w-xl mx-auto">
 			<div class="bg-white rounded-md shadow h-[60vh] flex flex-col justify-between">
 				<div class="h-full overflow-auto chat-messages">
@@ -158,7 +158,7 @@
 					<img src="/vercel.svg" alt="Vercel Logo" class="h-4 my-2 text-white" />
 				</a>
 				<a
-					href="https://github.com/StephDietz/nuxt-ai-chat"
+					href="https://github.com/sudo-self.com/nuxt-ai-chatbot-2/"
 					class="flex items-center font-medium underline transition-colors underline-offset-4 hover:text-black/70"
 				>
 					<img src="/github.svg" alt="GitHub Logo" class="h-4" />
