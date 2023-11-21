@@ -1,3 +1,7 @@
+<template>
+  <h1>Color Mode</h1>
+</template>
+
 <script setup>
 	const messages = ref([
 		{
