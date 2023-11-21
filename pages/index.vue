@@ -1,11 +1,9 @@
-<template>
-  <ColorModePicker />
-</template>
 
 <script>
-  import ColorModePicker from '@/components/ColorModePicker'
-
-  export default {
+  import ColorModePicker from '@/components/ColorModePicker'	
+  import { ThemeProvider } from "@/components/theme-provider"
+  import { Analytics } from "@/components/analytics"
+  import { ModeToggle } from "@/components/mode-toggle"  export default {
     components: {
       ColorModePicker
     }
