@@ -72,7 +72,7 @@
 			href="https://github.com/sudo-self/nuxt-ai-chatbot-2"
 			class="flex justify-center px-10 py-2 mx-auto space-x-1 text-sm font-medium text-center text-gray-600 transition-all rounded-full shadow-sm group bg-white/30 ring-1 ring-gray-900/5 hover:shadow-lg active:shadow-sm"
 		>
-			Nuxt UI Chatbot Remplate
+			Nuxt UI Chatbot Build source
 		</a>
 		<h1 class="my-8 text-5xl font-bold text-center text-black">Chatbot 2</h1>
 		<div class="max-w-xl mx-auto">
