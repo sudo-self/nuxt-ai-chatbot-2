@@ -1,6 +1,20 @@
 <template>
-  <h1>Color Mode</h1>
+  <ColorModePicker />
 </template>
+
+<script>
+  import ColorModePicker from '@/components/ColorModePicker'
+
+  export default {
+    components: {
+      ColorModePicker
+    }
+  }
+</script>
+
+
+
+
 
 <script setup>
 	const messages = ref([
